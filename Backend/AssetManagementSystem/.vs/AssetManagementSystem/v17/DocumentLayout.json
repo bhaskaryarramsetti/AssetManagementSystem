@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\migrations\\20240526145131_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\migrations\\20240526145131_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Migrations\\20240526094509_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AssetManagementSystem\\Migrations\\20240526094509_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FEA9F-F568-4653-AFBE-E798A4749FAA}|AssetManagementSystemTestProject\\AssetManagementSystemTestProject.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystemtestproject\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FEA9F-F568-4653-AFBE-E798A4749FAA}|AssetManagementSystemTestProject\\AssetManagementSystemTestProject.csproj|solutionrelative:assetmanagementsystemtestproject\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\repository\\authutilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\repository\\authutilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\profiles\\assetmangementsystem.api.profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\profiles\\assetmangementsystem.api.profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\migrations\\assetmanagementsystemcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\migrations\\assetmanagementsystemcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\dto\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\dto\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\controllers\\v1\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\controllers\\v1\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\controllers\\v1\\assetservicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\controllers\\v1\\assetservicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\bhask\\desktop\\assetmangementsystem-main\\backend\\assetmanagementsystem\\assetmanagementsystem\\migrations\\20240526095328_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2C1AD3-E1CD-4AC9-BA78-D463AF68770A}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\migrations\\20240526095328_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240526145131_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Migrations\\20240526145131_mig1.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Migrations\\20240526145131_mig1.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Migrations\\20240526145131_mig1.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Migrations\\20240526145131_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:51:31.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240526094509_mig.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Migrations\\20240526094509_mig.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Migrations\\20240526094509_mig.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Migrations\\20240526094509_mig.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Migrations\\20240526094509_mig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:45:09.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthUtilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Repository\\AuthUtilityRepository.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Repository\\AuthUtilityRepository.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Repository\\AuthUtilityRepository.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Repository\\AuthUtilityRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:37:56.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\appsettings.json",
+              "RelativeToolTip": "AssetManagementSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAADgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T04:40:57.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240526095328_mig.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Migrations\\20240526095328_mig.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Migrations\\20240526095328_mig.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Migrations\\20240526095328_mig.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Migrations\\20240526095328_mig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:53:29.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystemTestProject\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystemTestProject\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystemTestProject\\AuthControllerTests.cs",
+              "RelativeToolTip": "AssetManagementSystemTestProject\\AuthControllerTests.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAlwIgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:36:59.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Repository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Repository\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Repository\\AdminRepository.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Repository\\AdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:16:17.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Controllers\\v1\\AuthController.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Controllers\\v1\\AuthController.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Controllers\\v1\\AuthController.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Controllers\\v1\\AuthController.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAmwD8BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:55:44.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssetMangementSystem.API.Profiles.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Profiles\\AssetMangementSystem.API.Profiles.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Profiles\\AssetMangementSystem.API.Profiles.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Profiles\\AssetMangementSystem.API.Profiles.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Profiles\\AssetMangementSystem.API.Profiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:15:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Program.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:12:38.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Models\\Admin.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Models\\Admin.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA6wCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:11:41.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssetManagementSystemContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Migrations\\AssetManagementSystemContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Migrations\\AssetManagementSystemContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Migrations\\AssetManagementSystemContextModelSnapshot.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Migrations\\AssetManagementSystemContextModelSnapshot.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:10:12.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Interfaces\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Interfaces\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:57:19.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Dto\\AdminDto.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Dto\\AdminDto.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Dto\\AdminDto.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Dto\\AdminDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:56:22.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Controllers\\v1\\AdminsController.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Controllers\\v1\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Controllers\\v1\\AdminsController.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Controllers\\v1\\AdminsController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAiwNMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:42:47.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\AppSettings.cs",
+              "RelativeToolTip": "AssetManagementSystem\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:20:25.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssetServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Controllers\\v1\\AssetServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Controllers\\v1\\AssetServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\AssetMangementSystem-main\\Backend\\AssetManagementSystem\\AssetManagementSystem\\Controllers\\v1\\AssetServiceRequestsController.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Controllers\\v1\\AssetServiceRequestsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:05:52.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

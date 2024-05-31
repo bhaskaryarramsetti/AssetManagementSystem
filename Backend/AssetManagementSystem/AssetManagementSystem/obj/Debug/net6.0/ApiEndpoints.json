@@ -1,0 +1,783 @@
+[
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AuthController",
+    "Method": "RegisterAdmin",
+    "RelativePath": "api/v1/Admin/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationData",
+        "Type": "AssetManagementSystem.Dto.RegistrationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AdminsController",
+    "Method": "GetAdminByID",
+    "RelativePath": "api/v1/Admins/{adminID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AdminsController",
+    "Method": "UpdateAdmin",
+    "RelativePath": "api/v1/Admins/{adminID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "admin",
+        "Type": "AssetManagementSystem.Dto.AdminDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AdminsController",
+    "Method": "DeleteAdmin",
+    "RelativePath": "api/v1/Admins/{adminID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AdminsController",
+    "Method": "AllowAdminAccess",
+    "RelativePath": "api/v1/Admins/AllowAdminAccess/{adminID}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AdminsController",
+    "Method": "GetAccountsWithPendingAccess",
+    "RelativePath": "api/v1/Admins/GetAccountsWithPendingAccess",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AdminsController",
+    "Method": "UpdatePassword",
+    "RelativePath": "api/v1/Admins/UpdatePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "AssetManagementSystem.Dto.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AdminsController",
+    "Method": "ValidateUsernameOrEmail",
+    "RelativePath": "api/v1/Admins/ValidateUsernameOrEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAllocationDetailsController",
+    "Method": "GetAllAssetAllocationDetails",
+    "RelativePath": "api/v1/AllocationDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAllocationDetailsController",
+    "Method": "CreateAssetAllocationDetail",
+    "RelativePath": "api/v1/AllocationDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetAllocationDetail",
+        "Type": "AssetManagementSystem.Dto.AssetAllocationDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAllocationDetailsController",
+    "Method": "GetAssetAllocationDetailByID",
+    "RelativePath": "api/v1/AllocationDetails/{assetAllocationID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetAllocationID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAllocationDetailsController",
+    "Method": "UpdateAssetAllocationDetail",
+    "RelativePath": "api/v1/AllocationDetails/{assetAllocationID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetAllocationID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "assetAllocationDetail",
+        "Type": "AssetManagementSystem.Dto.AssetAllocationDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAllocationDetailsController",
+    "Method": "DeleteAssetAllocationDetail",
+    "RelativePath": "api/v1/AllocationDetails/{assetAllocationID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetAllocationID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAllocationDetailsController",
+    "Method": "GetAssetAllocationDetailsByEmployee",
+    "RelativePath": "api/v1/AllocationDetails/Employee/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetBorrowAndReturnRequestsController",
+    "Method": "GetAssetBorrowAndReturnRequests",
+    "RelativePath": "api/v1/AssetBorrowReturnRequests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetBorrowAndReturnRequestsController",
+    "Method": "CreateAssetBorrowAndReturnRequest",
+    "RelativePath": "api/v1/AssetBorrowReturnRequests",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetBorrowAndReturnRequest",
+        "Type": "AssetManagementSystem.Dto.AssetBorrowAndReturnRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetBorrowAndReturnRequestsController",
+    "Method": "GetAssetBorrowAndReturnRequestByID",
+    "RelativePath": "api/v1/AssetBorrowReturnRequests/{requestID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetBorrowAndReturnRequestsController",
+    "Method": "UpdateAssetBorrowAndReturnRequest",
+    "RelativePath": "api/v1/AssetBorrowReturnRequests/{requestID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "assetBorrowAndReturnRequest",
+        "Type": "AssetManagementSystem.Dto.AssetBorrowAndReturnRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetBorrowAndReturnRequestsController",
+    "Method": "GetAssetBorrowAndReturnRequestByEmployee",
+    "RelativePath": "api/v1/AssetBorrowReturnRequests/Employee/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCataloguesController",
+    "Method": "GetAllAssetDetails",
+    "RelativePath": "api/v1/Assets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchQuery",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "categoryFilter",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCataloguesController",
+    "Method": "CreateAsset",
+    "RelativePath": "api/v1/Assets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "asset",
+        "Type": "AssetManagementSystem.Dto.AssetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCataloguesController",
+    "Method": "GetAssetDetailsByID",
+    "RelativePath": "api/v1/Assets/{assetID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCataloguesController",
+    "Method": "UpdateAssetDetails",
+    "RelativePath": "api/v1/Assets/{assetID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "asset",
+        "Type": "AssetManagementSystem.Dto.AssetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCataloguesController",
+    "Method": "DeleteAsset",
+    "RelativePath": "api/v1/Assets/{assetID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetServiceRequestsController",
+    "Method": "GetAllAssetServiceRequests",
+    "RelativePath": "api/v1/AssetServiceRequests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetServiceRequestsController",
+    "Method": "CreateAssetServiceRequest",
+    "RelativePath": "api/v1/AssetServiceRequests",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetServiceRequest",
+        "Type": "AssetManagementSystem.Dto.AssetServiceRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetServiceRequestsController",
+    "Method": "GetAssetServiceRequestByID",
+    "RelativePath": "api/v1/AssetServiceRequests/{requestID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetServiceRequestsController",
+    "Method": "UpdateAssetServiceRequest",
+    "RelativePath": "api/v1/AssetServiceRequests/{requestID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "assetServiceRequest",
+        "Type": "AssetManagementSystem.Dto.AssetServiceRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetServiceRequestsController",
+    "Method": "GetAssetServiceRequestByEmployee",
+    "RelativePath": "api/v1/AssetServiceRequests/Employee/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAuditReportRequestsController",
+    "Method": "GetAssetAuditReportRequests",
+    "RelativePath": "api/v1/AuditReportRequests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAuditReportRequestsController",
+    "Method": "CreateAssetAuditReportRequest",
+    "RelativePath": "api/v1/AuditReportRequests",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetAuditReportRequest",
+        "Type": "AssetManagementSystem.Dto.AssetAuditReportRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAuditReportRequestsController",
+    "Method": "GetAssetAuditReportRequestByID",
+    "RelativePath": "api/v1/AuditReportRequests/{requestID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAuditReportRequestsController",
+    "Method": "UpdateAssetAuditReportRequest",
+    "RelativePath": "api/v1/AuditReportRequests/{requestID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "assetAuditReportRequest",
+        "Type": "AssetManagementSystem.Dto.AssetAuditReportRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetAuditReportRequestsController",
+    "Method": "GetAssetAuditReportRequestByEmployee",
+    "RelativePath": "api/v1/AuditReportRequests/Employee/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCategoriesController",
+    "Method": "GetAllAssetCategories",
+    "RelativePath": "api/v1/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCategoriesController",
+    "Method": "CreateAssetCategory",
+    "RelativePath": "api/v1/Categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetCategory",
+        "Type": "AssetManagementSystem.Dto.AssetCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCategoriesController",
+    "Method": "GetAssetCategorByID",
+    "RelativePath": "api/v1/Categories/{categoryID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCategoriesController",
+    "Method": "UpdateAssetCategory",
+    "RelativePath": "api/v1/Categories/{categoryID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "assetCategory",
+        "Type": "AssetManagementSystem.Dto.AssetCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AssetCategoriesController",
+    "Method": "DeleteAssetCategory",
+    "RelativePath": "api/v1/Categories/{categoryID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AuthController",
+    "Method": "RegisterEmployee",
+    "RelativePath": "api/v1/Employee/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationData",
+        "Type": "AssetManagementSystem.Dto.RegistrationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.EmployeesController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/v1/Employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.EmployeesController",
+    "Method": "GetEmployeeByID",
+    "RelativePath": "api/v1/Employees/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.EmployeesController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/v1/Employees/{employeeID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "employee",
+        "Type": "AssetManagementSystem.Dto.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.EmployeesController",
+    "Method": "DeleteEmployee",
+    "RelativePath": "api/v1/Employees/{employeeID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.EmployeesController",
+    "Method": "UpdatePassword",
+    "RelativePath": "api/v1/Employees/UpdatePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "AssetManagementSystem.Dto.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.EmployeesController",
+    "Method": "ValidateUsernameOrEmail",
+    "RelativePath": "api/v1/Employees/ValidateUsernameOrEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AuthController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/v1/ForgotPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "forgotPassword",
+        "Type": "AssetManagementSystem.Dto.ForgotPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v1/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "AssetManagementSystem.Dto.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssetManagementSystem.Controllers.v1.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/v1/Logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

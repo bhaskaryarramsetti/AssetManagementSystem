@@ -1,0 +1,29 @@
+.p-datatable::ng-deep th {
+    background-color: #ffc451 !important;
+    color: black !important;
+}
+
+.id-col {
+    background-color: rgb(212, 212, 212);
+}
+
+
+.open span:last-child {
+    font-size: 5em;
+    color: green;
+}
+
+.rejected span {
+    font-size: 5em;
+    color: red;
+}
+
+.servicing span:last-child {
+    font-size: 5em;
+    color: orange;
+}
+
+.closed span {
+    font-size: 5em;
+    color: blue;
+}
